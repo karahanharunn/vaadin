@@ -1,0 +1,9 @@
+com\example\springvaadin\Service.class
+com\example\springvaadin\SpringVaadinApplication.class
+weatherapi\Weather.class
+com\example\springvaadin\VaadinUI.class
+weatherapi\WeatherProperties.class
+weatherapi\Main.class
+com\example\springvaadin\WeatherComponent.class
+weatherapi\Test.class
+com\example\springvaadin\VaadinUI$1.class
